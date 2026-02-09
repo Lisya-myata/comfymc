@@ -1,0 +1,13 @@
+name = "comfymc"
+author = "ana"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "303322868a82a9542c2c8f037fd345ef82d60ebae2aabcf2f3d0424a041de9b1"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"
