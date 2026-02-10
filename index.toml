@@ -46,6 +46,11 @@ hash = "252a3fe876ca70a2bae42609e31b19965abcf67c539ba5b5c1308698a99c8272"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "b86fb98e00c28872a6a05eb668d5a1c67a4a12b24b77d3455c38de9161279c08"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4a19eb42a4e2ae64a2c1311dee8d9d0657ea25d449ee35ee2516f54e29d30591"
 metafile = true

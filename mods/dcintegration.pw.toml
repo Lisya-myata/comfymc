@@ -1,0 +1,13 @@
+name = "Discord Integration"
+filename = "dcintegration-neoforge-MC1.21.10-3.1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rbJ7eS5V/versions/595l6i6O/dcintegration-neoforge-MC1.21.10-3.1.0.1.jar"
+hash-format = "sha512"
+hash = "ed614243ae79289c213b014dff0f47a9cd38086b3d58ebea903be396309aa50b3035575804da143300ca0073127724901ed69b44fead734d1a951f8f0a25e4d2"
+
+[update]
+[update.modrinth]
+mod-id = "rbJ7eS5V"
+version = "595l6i6O"
