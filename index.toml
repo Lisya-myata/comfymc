@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "2b015e37810d20ee1ed8755e6394298add8107f0e53856d23ceef5fedefa01e6"
+metafile = true
+
+[[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "58bd191c753979081fc79e02acef9d35b6ebe78fe86cf562a232bd9f632a9c26"
 metafile = true
@@ -13,6 +18,16 @@ metafile = true
 [[files]]
 file = "mods/c2me.pw.toml"
 hash = "83e7d2b486d9e81ebc87113c3c531f1380b03e4cc5a889ec1e007a553c4e48e0"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "3b537859514d778e5b6451fae25f622079b3a270bbcb8e20ade037d35f043971"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "aae93007fab93e4d114d1c9e22c85b4e3305607f003de5c9bddb335e77d1c3bb"
 metafile = true
 
 [[files]]
@@ -61,6 +76,11 @@ hash = "75607dff5408c95f2892aa95d66e8c13ad748d20af106af0e965d6668c1a321f"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "54a5e4d994cf7e2520f99a7d7b5b6ef728da3f95238c3dd32568854aeeca6bf2"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "8046db79e104b618f4cf5d3483884f82099f0c2bb77ee1c2ef21faa581f1dc65"
 metafile = true
@@ -71,8 +91,23 @@ hash = "9e51f8934b9ae578792e89ca0cc6d5158f4bc5f14fb1de199a5e40d1fab4dff0"
 metafile = true
 
 [[files]]
+file = "mods/ketkets-furnicraft.pw.toml"
+hash = "2481554122dd77d808f619a1afe541fe015ff066909157ff142ef8225e456619"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "2eee7e963181362354e729c13106723950064729f134cea67d0a313c1c64fae4"
+metafile = true
+
+[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "19ec02275c1380188ac2cea9d6435212e6228c92ad870d771ab86cd636e83db4"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ec412163a1b43638371783147f891d729c310fabfac1de97df1f47933614ee23"
 metafile = true
 
 [[files]]
@@ -126,6 +161,11 @@ hash = "5afb22daeacb6fbf6577c7462e2f0bc81c6be90fdccad0d49b8debfbf5508478"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "6d51169189704b9c3c6aa268e998273a63ed94360b95ca4f24c3a08047557693"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "20b6a77277a812cac129f3e7cb4f09f0b64f90db4af8a424b8618601277ad4de"
 metafile = true
@@ -148,4 +188,9 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "9ce82dabe8a4ec3f4bff08a2a76aa4be26d33ed764e6b545f12459bd47b50f62"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
