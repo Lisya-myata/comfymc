@@ -1,0 +1,13 @@
+name = "Skeleton AI Fix"
+filename = "SkeletonAIFix-v20.1.1-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "977e506a78b0381ab96835360da3e84d9a735dbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6740120
+project-id = 319351

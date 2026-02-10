@@ -1,0 +1,13 @@
+name = "Underwater Swim Fix (MC-220390)"
+filename = "underwater-swim-fix-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57532a31c673675c40878f4d057ed4ef5fc36477"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7425709
+project-id = 1251901

@@ -1,0 +1,13 @@
+name = "Modded Omelet - Modern Spawn Eggs"
+filename = "Modded Omelet_1201.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66c8a5e8ae23d9134bc1349319822260a2dd904b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7274852
+project-id = 1296468

@@ -1,0 +1,13 @@
+name = "Mining Speed Tooltips"
+filename = "miningspeedtooltips-fabric-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a7cea6a3f3e54189732fea10177097431fa0b4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6463949
+project-id = 1251740

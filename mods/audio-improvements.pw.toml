@@ -1,0 +1,13 @@
+name = "Audio Improvements"
+filename = "Audio Improvements v1.2 - Fabric 1.20-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c5a945cde5782e0abc4226a20258d14ad8ad0eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6920401
+project-id = 1321370

@@ -1,0 +1,13 @@
+name = "IJM's Tweaks"
+filename = "ijmtweaks-1.4.0+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a68547c387c3f79ec3946a40ff768583244d9cad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5660481
+project-id = 994872
