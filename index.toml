@@ -19081,11 +19081,6 @@ hash = "91664fd24852a29850d7b29a8d78d425268eecc0302b76d37261061d2872bc4a"
 metafile = true
 
 [[files]]
-file = "mods/ftb-quests-freeze-fix.pw.toml"
-hash = "5c41a580bc8b90bc253aa745d9d627f2117fc29965b872fbf8a67b2f187c8f5e"
-metafile = true
-
-[[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
 hash = "8c2e6738d318980533ea582b51249f2bd3313eff1f5d1ca06766dc7bda1f89fe"
 metafile = true
