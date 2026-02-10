@@ -19381,11 +19381,6 @@ hash = "5ba6b18f86c3fd51f7a3235735665c1af2e6c26eb03799b04ff7c83e562c7d86"
 metafile = true
 
 [[files]]
-file = "mods/mining-speed-tooltips.pw.toml"
-hash = "a25cb3696cf27ddc35c5ed496e51610d5e858a3bfeb53cf9b3324fe5bff6f183"
-metafile = true
-
-[[files]]
 file = "mods/misc-tweaks.pw.toml"
 hash = "afb4feafed8160d53169d6484ff604f918ec9d8e683b12d0afe1fa3d13276481"
 metafile = true
