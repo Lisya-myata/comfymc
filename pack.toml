@@ -1,4 +1,4 @@
-name = "comfymc"
+name = "Mc"
 author = "ana"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a6a4442ea493038248d5088c750467fa7ac75135bb055dcaedbac14072d92f2a"
+hash = "4aeae176bf3c83b7e49838ac6314fc04e8f7efe2fcbafca67564193348b62dfc"
 
 [versions]
-fabric = "0.18.4"
-minecraft = "1.20.1"
+minecraft = "1.21.10"
+neoforge = "21.10.52-beta"

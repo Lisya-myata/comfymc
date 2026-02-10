@@ -1,0 +1,13 @@
+name = "Snowy Weaponry"
+filename = "SnowyWeaponry-1.21.10-1.16.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7df7c619e8b294f1a7aa899b1c0c964964d5738"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7128362
+project-id = 424431
