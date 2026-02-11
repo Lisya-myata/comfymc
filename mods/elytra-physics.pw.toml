@@ -1,0 +1,13 @@
+name = "Elytra Physics"
+filename = "elytra_physics-neoforge-2.4_mc1.21.9-10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jfvCMH0K/versions/OZe1xnNW/elytra_physics-neoforge-2.4_mc1.21.9-10.jar"
+hash-format = "sha512"
+hash = "47d6d747a4a5b110632a1c4dbef666f3852aca72f80a9e6f4196d7201aad6a3abe479b8b085bdf5783ed3666dfe9a9f30de42640d70d6bfb767b82075d65b89e"
+
+[update]
+[update.modrinth]
+mod-id = "jfvCMH0K"
+version = "OZe1xnNW"

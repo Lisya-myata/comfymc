@@ -3,11 +3,11 @@ filename = "NaturesCompass-1.21.10-3.0.5-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4c35d26f008d23cc1148577dd1fc03d56797f3a1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fPetb5Kh/versions/bvGXT2Ns/NaturesCompass-1.21.10-3.0.5-neoforge.jar"
+hash-format = "sha512"
+hash = "6e7a1e6c77c1b8546badb649025a665a10774a780a5944852c8ffc50fcac032055420de870e8394af1baa611105e9e2ad99cbebc0ad1a308c9720720673b0a9a"
 
 [update]
-[update.curseforge]
-file-id = 7146524
-project-id = 252848
+[update.modrinth]
+mod-id = "fPetb5Kh"
+version = "bvGXT2Ns"

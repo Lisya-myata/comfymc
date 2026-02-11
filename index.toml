@@ -51,6 +51,16 @@ hash = "b86fb98e00c28872a6a05eb668d5a1c67a4a12b24b77d3455c38de9161279c08"
 metafile = true
 
 [[files]]
+file = "mods/elytra-physics.pw.toml"
+hash = "6e3bd4a4a5578f544fb0bf80cdb32c397fd4968ebccf0ed615285b7d28c379ed"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "c4b5f78005fe7931fd7c4d03556343a5199a23af43f752b771f171fd23040cc8"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4a19eb42a4e2ae64a2c1311dee8d9d0657ea25d449ee35ee2516f54e29d30591"
 metafile = true
@@ -68,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "779e5baff02df5a747a769faa8cd8036fbdbdc52fc19f9a6cb039e4afa8048dd"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "bf68779d23bc35102ce4540b791f58eb83caeb4065683eb75d766596e4727d3d"
 metafile = true
 
 [[files]]
@@ -152,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "9ba7cfeedd6cde2e6ce25976c99ba478c878adb000c401b7dadf7dcdde7ce936"
+hash = "23950f373c3ae696c4c61552e42f2d457870147bcdc6604241c2d44dd403b250"
 metafile = true
 
 [[files]]
@@ -171,8 +186,28 @@ hash = "6d51169189704b9c3c6aa268e998273a63ed94360b95ca4f24c3a08047557693"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d0a35afaa1e68dd9640db999474896cc927261b2d2ab7d215a209e0e4c7585dc"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "f9786d8da1084fac8e91089e1d98f9a8b16e6bd4ad31989291465142bc7525f2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "f4da69fe35a46fe382875541aa0d1c4c4b39caba465c638b0e5ead0960be33aa"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "20b6a77277a812cac129f3e7cb4f09f0b64f90db4af8a424b8618601277ad4de"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "6959efdd2e0d1616a4ad041d601a45fcc061942139a4c91747ed8b92583099a8"
 metafile = true
 
 [[files]]
