@@ -91,11 +91,6 @@ hash = "b86fb98e00c28872a6a05eb668d5a1c67a4a12b24b77d3455c38de9161279c08"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "039ad709a142d6103c5b871964c18a8bdf153c13e9074f0c2b91004040476387"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "c37b53c2a66e5ce53039353659935c4f2b1b29e5f10716b5a6bb30ef62c92038"
 metafile = true
