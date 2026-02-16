@@ -1,0 +1,13 @@
+name = "Accessories"
+filename = "accessories-neoforge-1.4.3-beta+1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/Lp7d65h7/accessories-neoforge-1.4.3-beta%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "a3182105de9728626c85290663aa98c841c389ca7d71494978107fda965966532f026d881ebf32039dcee10d34dbc4bbdb6e9e98909e13ac3536371a5ed448a6"
+
+[update]
+[update.modrinth]
+mod-id = "jtmvUHXj"
+version = "Lp7d65h7"

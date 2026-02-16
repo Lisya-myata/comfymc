@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-18.0.8-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Z4ZAg0kG/architectury-18.0.8-neoforge.jar"
+hash-format = "sha512"
+hash = "d86630cb62a0bc9248adcfb4fdd92bab5a864179672b139d9a0d40a68b881125a0d4d0a593a190fdbbef5490e101fca5c6b5c9ff90eef95de6316ccf7a6b4efe"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "Z4ZAg0kG"

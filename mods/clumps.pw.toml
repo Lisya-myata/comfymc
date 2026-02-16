@@ -3,11 +3,11 @@ filename = "Clumps-neoforge-1.21.10-28.0.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2db358dec0b37da46b619e7b1866a790fdd417a3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/GfXBPCIN/Clumps-neoforge-1.21.10-28.0.0.1.jar"
+hash-format = "sha512"
+hash = "94c9e40029fe4ea3ded8036e379ce56c5802d02afd4e69707e980567764c61216c9f27ff8b356c3f87a4eeb1839ce075e519ee1182c273bf971791be273e454e"
 
 [update]
-[update.curseforge]
-file-id = 7092547
-project-id = 256717
+[update.modrinth]
+mod-id = "Wnxd13zP"
+version = "GfXBPCIN"

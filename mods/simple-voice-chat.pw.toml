@@ -1,0 +1,13 @@
+name = "Simple Voice Chat"
+filename = "voicechat-neoforge-1.21.10-2.6.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/KPfiggQv/voicechat-neoforge-1.21.10-2.6.12.jar"
+hash-format = "sha512"
+hash = "13340c505d6ccf8714ac15b6f9da75eeeadb2cdb504837be0c7201215687ff04f4ac8837f70f1dbc1f98ddd934738cee0c5e8d1625c8bf591a8421c2197755e9"
+
+[update]
+[update.modrinth]
+mod-id = "9eGKb6K1"
+version = "KPfiggQv"

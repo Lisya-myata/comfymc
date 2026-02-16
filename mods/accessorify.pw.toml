@@ -1,0 +1,13 @@
+name = "Accessorify"
+filename = "accessorify-2.4.0-beta.5+1.21.10-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CVRzrXGP/versions/3fvqqHLn/accessorify-2.4.0-beta.5%2B1.21.10-neoforge.jar"
+hash-format = "sha512"
+hash = "8311ddb5bf2d0729f584858bd13507c0cc643a9b89fb84173d4992f47276db8e8f44872ab6976188dce37a4b3e19991e0dd40edcbad22bd0ac685360204245cf"
+
+[update]
+[update.modrinth]
+mod-id = "CVRzrXGP"
+version = "3fvqqHLn"

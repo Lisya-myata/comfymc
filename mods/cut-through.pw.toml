@@ -1,0 +1,13 @@
+name = "Cut Through"
+filename = "CutThrough-v21.10.0+mc1.21.10-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dk6su9JN/versions/fEyREDWl/CutThrough-v21.10.0%2Bmc1.21.10-NeoForge.jar"
+hash-format = "sha512"
+hash = "58fb276e358dc6898b8d617c8e6497b580f426934c10a7412ed0f0596425a812c7fd6caf2613841c1603911c6585ef64e6f4c191d1e9d59fef4598582ed8bbe3"
+
+[update]
+[update.modrinth]
+mod-id = "Dk6su9JN"
+version = "fEyREDWl"
