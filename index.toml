@@ -21,6 +21,11 @@ hash = "58bd191c753979081fc79e02acef9d35b6ebe78fe86cf562a232bd9f632a9c26"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e77a1e4fd27c350d4294b296d4bf897b42519aa15892154a181b93bf33118a78"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "79e922fb95a62fe980b87997291c151fd01a45e2d3e80e98e819de55be32ab95"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/enchanted-vertical-slabs.pw.toml"
 hash = "c4b5f78005fe7931fd7c4d03556343a5199a23af43f752b771f171fd23040cc8"
+metafile = true
+
+[[files]]
+file = "mods/ender-villages.pw.toml"
+hash = "513019df3c5b8684a13dda1752496afca665016f05775a3d61c317d16a10258f"
 metafile = true
 
 [[files]]
@@ -231,6 +241,11 @@ hash = "ef0013df6119e228fb9d6a65c2b4b24a43d700de1ad96cedad4882c1ca6c01a7"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "b9a013a89358571fe11d1dbe69547d7632080d35a63ad9df020defcdda59d218"
+metafile = true
+
+[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "1262c73d6e6b1d83bca0e5e48d81c92e943915323710ff310fdfce2fde119465"
 metafile = true
@@ -253,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "1d49d388cd1a4317c1663672b41acbf11cb4c5c2c731b231308a3ed655f555ae"
+metafile = true
+
+[[files]]
+file = "mods/more-harnesses.pw.toml"
+hash = "d47d0590371c79a94851c428edb589be1cf042903ecb4e4a8d4d0521e5cfab55"
 metafile = true
 
 [[files]]

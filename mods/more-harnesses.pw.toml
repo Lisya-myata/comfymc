@@ -1,0 +1,13 @@
+name = "More Harnesses"
+filename = "moreharnesses-neoforge-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NjhJYONf/versions/yWBUBB4t/moreharnesses-neoforge-0.0.2.jar"
+hash-format = "sha512"
+hash = "b1e6d760f738b7aed50a130d9474358dead3cb8d48fe5ae136b3cefbef49cd9f73830c5f6a74dfbabb0e3d2df7a0576bcd5b59a2a08f877505fa3abe1033f5ac"
+
+[update]
+[update.modrinth]
+mod-id = "NjhJYONf"
+version = "yWBUBB4t"
