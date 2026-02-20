@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "779e5baff02df5a747a769faa8cd8036fbdbdc52fc19f9a6cb039e4afa8048dd"
+hash = "8ce1482f0b9a092683ee7edbd5381509915e22b0a7ca546bf46293f8ce14329e"
 metafile = true
 
 [[files]]
@@ -313,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "0a6564b720c7b524d08e1f2c4d0b1a3a082bf98c5f3d142678cd5b25c16557ab"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "215039ec9a0d262b04b3950ed16ee3c18d387c82e1b0767a56badbc5ee14f824"
 metafile = true
 
 [[files]]

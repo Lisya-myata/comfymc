@@ -3,11 +3,11 @@ filename = "GlitchCore-neoforge-1.21.10-21.10.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4bb0a8aecf887cebc5ff84174fe34fc0821b9016"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/PuK3AwMh/GlitchCore-neoforge-1.21.10-21.10.0.4.jar"
+hash-format = "sha512"
+hash = "5c578c87b89de6a802f8c6c89ee5e64984405bf6184176e9f55991331c7913125c1eb68cc48d243c14b6a28f06fa1d61ae330337a792d7f3da508e3d14e934dd"
 
 [update]
-[update.curseforge]
-file-id = 7237828
-project-id = 955399
+[update.modrinth]
+mod-id = "s3dmwKy5"
+version = "PuK3AwMh"
