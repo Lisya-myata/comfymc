@@ -146,6 +146,11 @@ hash = "37995c0f2abd249cc36579043316e0e9f45e38b9e6c3b0b8c1cdbaa25c5d6537"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "9e60a85fe39800476d36b92d1565e4e15fb1561ffd5d6c3a63abc7074ddc32ee"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "0ea5600a3b1c6f04cbd6914447c490244c2ca4fa3412bf47632bcce7e19c1e88"
 metafile = true
@@ -238,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "ef0013df6119e228fb9d6a65c2b4b24a43d700de1ad96cedad4882c1ca6c01a7"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "5f2f3caf91aeccbd58bb6768eb5ff9c0a6a0347a0ef13f4a5cebee4d4806c21a"
 metafile = true
 
 [[files]]
