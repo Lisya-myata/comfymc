@@ -156,6 +156,11 @@ hash = "c8fc45ac5038ffd5124e4b79b5e829f8033f70edd31f065700e1a8a8310a86e1"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "a9e6c38e36fef6be60d4cc671118160d5b5ef830f0e7d01baa1b678b5b4466e0"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "2712e6db409cd8fd91eef7c36bcd2bf1d186dffed2c41b859405de7fa98d6c0d"
 metafile = true
