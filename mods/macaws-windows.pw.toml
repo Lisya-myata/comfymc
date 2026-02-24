@@ -1,0 +1,13 @@
+name = "Macaw's Windows"
+filename = "mcw-mcwwindows-2.4.2-mc1.21.10neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/rAV93xFI/mcw-mcwwindows-2.4.2-mc1.21.10neoforge.jar"
+hash-format = "sha512"
+hash = "ef5660ec552df4cdbc78515ef75b5adbb7aeefe55eb7f7850095b5fdc4eae5b6fc7d02652451f5fd3727bea1625537b218346d2c1ab96bd52f4cb2f4cdfb49e0"
+
+[update]
+[update.modrinth]
+mod-id = "C7I0BCni"
+version = "rAV93xFI"
