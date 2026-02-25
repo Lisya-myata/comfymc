@@ -161,13 +161,18 @@ hash = "c8fc45ac5038ffd5124e4b79b5e829f8033f70edd31f065700e1a8a8310a86e1"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "a9e6c38e36fef6be60d4cc671118160d5b5ef830f0e7d01baa1b678b5b4466e0"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "2712e6db409cd8fd91eef7c36bcd2bf1d186dffed2c41b859405de7fa98d6c0d"
 metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "779e5baff02df5a747a769faa8cd8036fbdbdc52fc19f9a6cb039e4afa8048dd"
+hash = "8ce1482f0b9a092683ee7edbd5381509915e22b0a7ca546bf46293f8ce14329e"
 metafile = true
 
 [[files]]
@@ -323,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "0a6564b720c7b524d08e1f2c4d0b1a3a082bf98c5f3d142678cd5b25c16557ab"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "215039ec9a0d262b04b3950ed16ee3c18d387c82e1b0767a56badbc5ee14f824"
 metafile = true
 
 [[files]]
