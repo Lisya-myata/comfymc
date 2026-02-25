@@ -181,13 +181,18 @@ hash = "c8fc45ac5038ffd5124e4b79b5e829f8033f70edd31f065700e1a8a8310a86e1"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "a9e6c38e36fef6be60d4cc671118160d5b5ef830f0e7d01baa1b678b5b4466e0"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "2712e6db409cd8fd91eef7c36bcd2bf1d186dffed2c41b859405de7fa98d6c0d"
 metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "779e5baff02df5a747a769faa8cd8036fbdbdc52fc19f9a6cb039e4afa8048dd"
+hash = "8ce1482f0b9a092683ee7edbd5381509915e22b0a7ca546bf46293f8ce14329e"
 metafile = true
 
 [[files]]
@@ -263,6 +268,41 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "ef0013df6119e228fb9d6a65c2b4b24a43d700de1ad96cedad4882c1ca6c01a7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "f0d87eb0f83bbfa42f7dc2fbe59374a0a80d4cebed252eb2db9585b8463afccd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "2d3c1d2266e3c900f10a86be8a3cbb332250f01dfa2257a804a82066607158a4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "485ff87804b1d05a5ea315416de74eef0695e42b5faaee664db3f1286a154ce5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "fff5801e95be0ea0e5d8c7497d58cd18441c86c71c1a9d818c31587bf5dd0916"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "220123b2dd257b5deb7b722f5d74d60d7e1ca32ce6c3181a2da1f3a519b48d8f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "6e9f24d285e91b2e75fe7c1d70801771e8cb5ed3120b9f1e26a234a13a57cc8e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "adc7924af2290a1c80628f316ae7f57b481b1f6f249d82fb29f11ebfccee90ef"
 metafile = true
 
 [[files]]
@@ -343,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "0a6564b720c7b524d08e1f2c4d0b1a3a082bf98c5f3d142678cd5b25c16557ab"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "215039ec9a0d262b04b3950ed16ee3c18d387c82e1b0767a56badbc5ee14f824"
 metafile = true
 
 [[files]]

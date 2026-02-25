@@ -1,0 +1,13 @@
+name = "From The Fog"
+filename = "From-The-Fog-Forge-Fabric-1.21.9-1.21.10-v1.11.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p1WH6sHr/versions/raM41BXK/From-The-Fog-Forge-Fabric-1.21.9-1.21.10-v1.11.2.jar"
+hash-format = "sha512"
+hash = "9a02a4570a3f57ec6476b3fb819546d9ecaf7091291da16dee397fa9bd62db6a0f4d79e78b1a7a0a5c2a5d5f8d45dd8e5dfc745d3280ccf3638ff9a99f75f916"
+
+[update]
+[update.modrinth]
+mod-id = "p1WH6sHr"
+version = "raM41BXK"
