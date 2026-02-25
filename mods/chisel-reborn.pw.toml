@@ -1,0 +1,13 @@
+name = "Chisel Reborn"
+filename = "chisel-neoforge-2.2.0+mc1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/xhyXQeMI/chisel-neoforge-2.2.0%2Bmc1.21.10.jar"
+hash-format = "sha512"
+hash = "64eecd5300f9450a1ae05f51be02137c65a02ec85d04d4fdfdd8568b0889c6960a80700e9f6ead9cd8c6fff0717315c8141b83bad7d5854de6288a6664340e03"
+
+[update]
+[update.modrinth]
+mod-id = "4KWv7wbN"
+version = "xhyXQeMI"

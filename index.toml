@@ -41,6 +41,11 @@ hash = "25d24bd2dead409fc0583cbc6b89c3df21489a1bf4d262486130cf7c7145f731"
 metafile = true
 
 [[files]]
+file = "mods/blasting-raw-metal-blocks-into-blocks.pw.toml"
+hash = "b767076ce9d82bacc1b5d1a496809db2d275b0c4527711aceefe497dacd2b3e7"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "83e7d2b486d9e81ebc87113c3c531f1380b03e4cc5a889ec1e007a553c4e48e0"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "aae93007fab93e4d114d1c9e22c85b4e3305607f003de5c9bddb335e77d1c3bb"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "f13d0bc21404346a873e45f26a57bae0cc810894525021da72375bd9f2fc4a44"
 metafile = true
 
 [[files]]
@@ -81,6 +91,11 @@ hash = "252a3fe876ca70a2bae42609e31b19965abcf67c539ba5b5c1308698a99c8272"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "eae581f5bad381846ee73f31f511b91188da20579f2d42f90d828cf8c43bd248"
+metafile = true
+
+[[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "2a2fed5fc864ae5b4b321dc4bbc95ab8115c868803db73fed7999e46d1cee8cb"
 metafile = true
@@ -93,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "b86fb98e00c28872a6a05eb668d5a1c67a4a12b24b77d3455c38de9161279c08"
+metafile = true
+
+[[files]]
+file = "mods/deimos.pw.toml"
+hash = "ede2fc162c5fd771dd2c452df34e042d176e909f2c4351a39d956d67b49b4dda"
 metafile = true
 
 [[files]]
