@@ -46,6 +46,11 @@ hash = "b767076ce9d82bacc1b5d1a496809db2d275b0c4527711aceefe497dacd2b3e7"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "eada2d6f45ba4899755039e48e3de4e28f330c460d56317a0d2c71a9adf300f6"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "83e7d2b486d9e81ebc87113c3c531f1380b03e4cc5a889ec1e007a553c4e48e0"
 metafile = true
@@ -157,12 +162,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "659b9f80edaa114898f436b8efc46b5a72b81eba89d831e9506a6ef40aaf4d12"
+hash = "5cd9cdf565062cd6df5912c8a39c4c2724ec6e05b83bc4327d40f1cdcd291d95"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "37995c0f2abd249cc36579043316e0e9f45e38b9e6c3b0b8c1cdbaa25c5d6537"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9f69fcdf8fab80b2095dc8c3e89d5cfc7685c812c8bdf424660b10bf660fd1d1"
 metafile = true
 
 [[files]]
@@ -318,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "1262c73d6e6b1d83bca0e5e48d81c92e943915323710ff310fdfce2fde119465"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "cc3791c15a79a8c9f720ac56d203cadfa86e5029ff0c4d1c22f568e90d636459"
 metafile = true
 
 [[files]]
