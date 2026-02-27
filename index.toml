@@ -196,6 +196,11 @@ hash = "a9e6c38e36fef6be60d4cc671118160d5b5ef830f0e7d01baa1b678b5b4466e0"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "156f27b95fc9936aaab8febcfb9b26c10186aad7cb71fe62b55ff92d6c8b171e"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "2712e6db409cd8fd91eef7c36bcd2bf1d186dffed2c41b859405de7fa98d6c0d"
 metafile = true
@@ -386,6 +391,11 @@ hash = "1d44f229e6b412fcaf6cad52e91c2d9296d133e17257958e0dd2e5ed1b104f0d"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "4b87454d50b6880e5004371089fdb74f5754efd8100e3a64592f5cb3c5631af5"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "22e3e7d7aceda931c46922f4872b3f2d4ad41ba1cb6dfa3949a3df4e06de5ee8"
 metafile = true
@@ -458,6 +468,16 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "ad278104876f2e043fa466b90be7b71c1ad4f53710e30f3c43a52ab4cbeb24a6"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "6648e3e7b677403c31e5252b9faa508177234a0634bc4112108db7b9660091f7"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "fa6629872f6842f0c2042c02cf72ce6a31bd32f33fc25cef354fdb0ed2b6f224"
 metafile = true
 
 [[files]]
