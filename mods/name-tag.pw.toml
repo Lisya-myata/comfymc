@@ -1,0 +1,13 @@
+name = "Name Tag (Craft & Drops)"
+filename = "name-tag-v2.1.1+1.21.6+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EYCl3WzU/versions/olvVBTpj/name-tag-v2.1.1%2B1.21.6%2B.jar"
+hash-format = "sha512"
+hash = "fcf0f0053ae4cc64d21ec1856fc8f7dd0c6ddce0f8ae20153d7b807283e26976fc1375893c5f60eb918b6e00ed798d3139597f39be7e846f020607cbff742d25"
+
+[update]
+[update.modrinth]
+mod-id = "EYCl3WzU"
+version = "olvVBTpj"
