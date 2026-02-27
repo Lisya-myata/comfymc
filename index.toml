@@ -46,6 +46,11 @@ hash = "b767076ce9d82bacc1b5d1a496809db2d275b0c4527711aceefe497dacd2b3e7"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "121a774cafa001acbcd48a2697ab05684c172d38d5bc1bf06f865c590baeeef7"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "eada2d6f45ba4899755039e48e3de4e28f330c460d56317a0d2c71a9adf300f6"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "a9e6c38e36fef6be60d4cc671118160d5b5ef830f0e7d01baa1b678b5b4466e0"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "156f27b95fc9936aaab8febcfb9b26c10186aad7cb71fe62b55ff92d6c8b171e"
 metafile = true
 
 [[files]]
@@ -366,6 +376,11 @@ hash = "89fef98a57bc5bf17a0896f6ee166489ef0f5d767618973534d9acef102baff8"
 metafile = true
 
 [[files]]
+file = "mods/name-tag.pw.toml"
+hash = "b42989b7e83e8379acd1011d64c5c5acd36235af752df84be71ee1f7c42c7af7"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "23950f373c3ae696c4c61552e42f2d457870147bcdc6604241c2d44dd403b250"
 metafile = true
@@ -383,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "1d44f229e6b412fcaf6cad52e91c2d9296d133e17257958e0dd2e5ed1b104f0d"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "4b87454d50b6880e5004371089fdb74f5754efd8100e3a64592f5cb3c5631af5"
 metafile = true
 
 [[files]]
@@ -461,6 +481,16 @@ hash = "ad278104876f2e043fa466b90be7b71c1ad4f53710e30f3c43a52ab4cbeb24a6"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "6648e3e7b677403c31e5252b9faa508177234a0634bc4112108db7b9660091f7"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "fa6629872f6842f0c2042c02cf72ce6a31bd32f33fc25cef354fdb0ed2b6f224"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-neoforge.pw.toml"
 hash = "896ad08d8b2ca69b626b63d2ec9d38ed43b6f8d739a3410208a1b185ef544216"
 metafile = true
@@ -478,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "8d4dc4e0e1eb4278b530d4be1b5881962ca2bf518023966923457754541fe2ca"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "4ae3e51b0798fad28e863faa7b82d4e2d8f84852a8c9198ce3c828697e2edf0e"
 metafile = true
 
 [[files]]

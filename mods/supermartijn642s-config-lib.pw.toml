@@ -1,0 +1,13 @@
+name = "SuperMartijn642's Config Lib"
+filename = "supermartijn642configlib-1.1.8-neoforge-mc1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/OjGIp9mS/supermartijn642configlib-1.1.8-neoforge-mc1.21.9.jar"
+hash-format = "sha512"
+hash = "689aef99220e08db9c03f847dc71ebed7344b8af69d8e06eac8195818018fa287b89d5abcd12e5a6ebfcab5d07f59a4c1917839c9a63f95cfa77ba5512f474e7"
+
+[update]
+[update.modrinth]
+mod-id = "LN9BxssP"
+version = "OjGIp9mS"
