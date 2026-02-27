@@ -471,6 +471,11 @@ hash = "6959efdd2e0d1616a4ad041d601a45fcc061942139a4c91747ed8b92583099a8"
 metafile = true
 
 [[files]]
+file = "mods/stalker-creepers.pw.toml"
+hash = "3586f3131d0eb190f3b223aae492372ab9ac140421e1e88484353d73588fa127"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "6289394c0060e1e698b35cfbf5bf5621fa6e455214eab03afe31e21474eb6998"
 metafile = true
