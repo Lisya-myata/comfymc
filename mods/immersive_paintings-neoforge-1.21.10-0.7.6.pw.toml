@@ -1,0 +1,7 @@
+name = "Immersive Paintings"
+filename = "immersive_paintings-neoforge-1.21.10-0.7.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "3aca0695059278450b1d180b06c6cb5998eb4f99cb5ddc6e2075c12f722abce1"

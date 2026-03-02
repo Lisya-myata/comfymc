@@ -226,6 +226,15 @@ hash = "9562afc1476bc027d20e1c128358272a115a828c06f103c1713d65f3b84a6f04"
 metafile = true
 
 [[files]]
+file = "mods/immersive_paintings-neoforge-1.21.10-0.7.6.jar"
+hash = "3aca0695059278450b1d180b06c6cb5998eb4f99cb5ddc6e2075c12f722abce1"
+
+[[files]]
+file = "mods/immersive_paintings-neoforge-1.21.10-0.7.6.pw.toml"
+hash = "c3a46e06874754ebc3a7a5358bfdd34aaa549fa04b69190f5b7591f30714d997"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "75607dff5408c95f2892aa95d66e8c13ad748d20af106af0e965d6668c1a321f"
 metafile = true
